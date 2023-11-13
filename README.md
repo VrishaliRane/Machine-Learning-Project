@@ -1,1 +1,2 @@
 # Machine-Learning-Project
+The Campus Recruitment Prediction project is a machine learning initiative aimed at analyzing and predicting the placement outcomes of students based on various factors. Leveraging a comprehensive dataset from campus recruitment processes, this project explores patterns and develops a predictive model to assist students, universities, and recruiters in making informed decisions.
